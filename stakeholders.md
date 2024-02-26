@@ -1,7 +1,3 @@
-# BEERUS
-
-It says README, and you've done it, congratulations.
-
 # Stakeholder Registry
 | Name            | Title                     | Role             | Power        | Interest      | Requirements             | Communication             |
 |-----------------|---------------------------|------------------|--------------|---------------|--------------------------|---------------------------|
@@ -15,3 +11,4 @@ It says README, and you've done it, congratulations.
 | Danny Brown     | Detroit Rapper | Rapping | L | L | | Monthly News letter |
 | Geordie Greep   | Developer | Front-end Development | L | H | Wireframes delivered by Q1 | Weekly Emails |
 | Morgan Simpson  | Tutor | Sponsor | H | H | Complete project iteration 1 by mid Q2 and finish the final iteration by end of Q3 | Weekly emails |
+# BEERUS

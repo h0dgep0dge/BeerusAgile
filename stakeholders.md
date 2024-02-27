@@ -6,7 +6,7 @@
 | Ted Cruz        | Communications and HR     | Investor | L | H | Keep stakeholder updated and content with weekly emails | 3x Weekly email and 1x phone call |
 | Joseph Stinmal  | Vendor | Distrubution | H | H | Complete product catalogue with pricing | Weekly emails |
 | Kenny Smith     | Security Manager | Sponsor | L | H | Finish implementing GDPR compliant checkouts by end of Q3 | Weekly email and one f2f session |
-| Rosa Monstupe   | Supplier | Supplier | L | H | Ship samples by Q1 and deliver final by Q3 | Weekly Email |
+| Rosa Monstupe   | Supplier | Supplier | L | H | Ship samples by Q1 and deliver final by Q3 | Weekly Email and tin-can telephone |
 | Karl Duckworth  | CEO | CEOing | H | L | 27% revenue increase | Yelling from office |
 | Danny Brown     | Detroit Rapper | Rapping | L | L | | Monthly News letter |
 | Geordie Greep   | Developer | Front-end Development | L | H | Wireframes delivered by Q1 | Weekly Emails |

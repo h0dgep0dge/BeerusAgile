@@ -51,8 +51,8 @@ Presented by Robbie Mckennie
 Discussion
  - Finding out who our internal and external stakeholders are
  - Assigning a project member to complete the stakeholder registry, persona, and testing.
- - Finding out the wants and needs to the stakeholders
- - Find out the likes and dislikes of the stakeholders
+ - Finding out the requirements of the stakeholders.
+ - Find out the likes and dislikes of the stakeholders.
 
 Conclusions
  - Found out who out internal and external stakeholders are

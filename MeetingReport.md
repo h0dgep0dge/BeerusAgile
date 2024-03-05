@@ -31,7 +31,7 @@ Discussion
  - Finding out who the stakeholders are within this project
  - Finding collaborative workplace applications to streamline the project workload
  - Finding suitable communication to keep everyone involved in the project up to date
- - Using a Github respository to store all out project work
+ - Investigating software where we can store our project documentation.
 
 Conclusions
  - Create a Github respository to store work and allow project members to view and make changes to documentation

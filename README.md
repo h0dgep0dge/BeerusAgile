@@ -1,3 +1,3 @@
 # BEERUS
 
-It says README, and you've done it, congratulations.
+It says "READ ME", and you did it, congratulations!

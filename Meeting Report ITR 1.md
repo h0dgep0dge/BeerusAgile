@@ -69,7 +69,7 @@ Discussion
  - 
 
 Conclusions
- - 
+ - A
 
 |Action items|Person responsible|Deadline|
 |-|-|-|

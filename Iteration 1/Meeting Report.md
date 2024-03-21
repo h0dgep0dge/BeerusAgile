@@ -66,15 +66,19 @@ Conclusions
 Presented by Corbyn Jacobs
 
 Discussion
- - 
+ - Discussed a concise plan to gather insights into our target audience.
+ - Discuused testing scenarios or tasks that align with the goals and behaviors identified in our ideal personas.
+ - Planned to collect data to understand the current trends in the ecommerce industry.
+ - Create a plan to validate the personas through numerous rounds of user testing, ensuring that completed personas align with our project.
+ 
 
 Conclusions
- - A
+ - We concluded by creating a plan to validate and confirm that our personas align with our project, and assigning group members to collect data.
 
 |Action items|Person responsible|Deadline|
 |-|-|-|
-|___|___|___|
-
+|Data collection|Joel Gadd|29/02/24|
+|Uset testing|Robbie Mckennie|29/02/24|
 ## Other Information
 
 ### Resources

@@ -44,14 +44,16 @@ Conclusions
 Presented by Joel Gadd
 
 Discussion
- - FIXME
+ - We need to work out all the resources and software products we're going to need
 
 Conclusions
- - FIXME
+ - Joel will research the resources and software we're going to use
+ - Robbie will develop the resource needs chart
 
 |Action items|Person responsible|Deadline|
 |-|-|-|
-|FIXME|ur mom|29/05/24|
+|Research resource needs|Joel Gadd|29/05/24|
+|Write resource needs document|Robbie Mckennie|29/05/24|
 
 ### Agenda Item 3: Github Boards
 

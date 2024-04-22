@@ -68,10 +68,6 @@ Conclusions
 |-|-|-|
 |Configure and deploy github boards|Robbie Mckennie|29/05/24|
 
-|Action items|Person responsible|Deadline|
-|-|-|-|
-|FIXME|ur mom|29/05/24|
-
 ### Agenda Item 4: Testing New Changes
 
 Presented by Joel Gadd

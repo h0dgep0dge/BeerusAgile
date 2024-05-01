@@ -2,7 +2,7 @@
 
 It says "READ ME", and you did it, congratulations!
 
-## Group members
+### Group members
 
  - Corbyn Jacobs
  - Joel Gadd
@@ -15,12 +15,12 @@ It says "READ ME", and you did it, congratulations!
  - personas
 
 
-## Group meeting reports
+### Group meeting reports
 
  - Iteration 1
  - Iteration 2
  - Iteration 3
 
-## Stakeholder register
+### Stakeholder register
 
-## Personas
+### Personas

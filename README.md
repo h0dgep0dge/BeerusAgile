@@ -19,7 +19,7 @@ It says "READ ME", and you did it, congratulations!
 
  - [Iteration 1](Iteration%201/Meeting%20Report%20IT1.md)
  - [Iteration 2](Iteration%202/Meeting%20Report%20IT2.md)
- - Iteration 3 TBC
+ - [Iteration 3](Iteration%203/Meeting%20Report%20IT3.md)
 
 ### Stakeholder register
 

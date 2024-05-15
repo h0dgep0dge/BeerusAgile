@@ -21,9 +21,9 @@ Agenda items
 
 ## Minutes
 
-### Agenda Item 1: XXXXXX
+### Agenda Item 1: Risk Register
 
-Presented by XXXXXX
+Presented by Corbyn Jacobs
 
 Discussion
  - XXXX
@@ -36,6 +36,38 @@ Conclusions
 |-|-|-|
 |XXXX|XXXX|X/Y/Z|
 
+
+### Agenda Item 2: Website integration and Publish
+
+Presented by Robbie Mckennie
+
+Discussion
+ - XXXX
+ - XXXX
+
+Conclusions
+ - XXXX
+
+|Action items|Person responsible|Deadline|
+|-|-|-|
+|XXXX|XXXX|X/Y/Z|
+
+### Agenda Item 3: User Testing
+
+Presented by Joel Gadd
+
+Discussion
+ - XXXX
+ - XXXX
+
+Conclusions
+ - XXXX
+
+|Action items|Person responsible|Deadline|
+|-|-|-|
+|XXXX|XXXX|X/Y/Z|
+
+
 ## Other Information
 
 ### Resources
@@ -43,4 +75,4 @@ Conclusions
 
 ### Date of next meeting
 
-X/X/X
+15/05/2024

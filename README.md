@@ -31,3 +31,7 @@ It says "READ ME", and you did it, congratulations!
  - [Arthur Edward](Iteration%201/Persona-Arthur-Edward.pdf)
  - [Bobson Dugnutt](Iteration%201/Persona-Bobson-Dugnutt.pdf)
 
+### Risk Register
+
+ - [Risk Register](Iteration%203/Risk%20Register.md)
+

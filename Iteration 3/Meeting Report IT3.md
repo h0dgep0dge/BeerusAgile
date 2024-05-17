@@ -17,7 +17,9 @@ Absent: N/A
 Please bring: Laptop, project documentation
 
 Agenda items
- - ITEMS
+ - Risk Register
+ - Website Integration and Publish
+ - User Testing
 
 ## Minutes
 
@@ -26,11 +28,11 @@ Agenda items
 Presented by Corbyn Jacobs
 
 Discussion
- - XXXX
- - XXXX
+ - Best option for collaborating on the risk register
+ - Review risk matrix
 
 Conclusions
- - XXXX
+ - Created an issue on GitHub for submitting risks
 
 |Action items|Person responsible|Deadline|
 |-|-|-|
@@ -42,11 +44,11 @@ Conclusions
 Presented by Robbie Mckennie
 
 Discussion
- - XXXX
+ - Find web hosting
  - XXXX
 
 Conclusions
- - XXXX
+ - We need to pay for hosting and upload the codebase
 
 |Action items|Person responsible|Deadline|
 |-|-|-|
@@ -57,8 +59,8 @@ Conclusions
 Presented by Joel Gadd
 
 Discussion
- - XXXX
- - XXXX
+ - Where can we find testers?
+ - Level of technical expertise
 
 Conclusions
  - XXXX

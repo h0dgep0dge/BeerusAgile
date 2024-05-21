@@ -32,11 +32,13 @@ Discussion
  - Review risk matrix
 
 Conclusions
- - Created an issue on GitHub for submitting risks
+ - We should create an issue on GitHub for submitting risks
+ - We need to write a document to show the risk register
 
 |Action items|Person responsible|Deadline|
 |-|-|-|
-|XXXX|XXXX|X/Y/Z|
+|Create GitHub Issue|Robbie Mckennie|21/5/24|
+|Produce Risk Register Document|Robbie Mckennie|21/5/24|
 
 
 ### Agenda Item 2: Website integration and Publish
@@ -44,15 +46,14 @@ Conclusions
 Presented by Robbie Mckennie
 
 Discussion
- - Find web hosting
- - XXXX
+ - What do we need from hosting, speed, reliability, scale
 
 Conclusions
  - We need to pay for hosting and upload the codebase
 
 |Action items|Person responsible|Deadline|
 |-|-|-|
-|XXXX|XXXX|X/Y/Z|
+|Upload and publish codebase|Joel Gadd|21/5/24|
 
 ### Agenda Item 3: User Testing
 
@@ -63,11 +64,12 @@ Discussion
  - Level of technical expertise
 
 Conclusions
- - XXXX
+ - We're going to advertise for users to test our finished project
 
 |Action items|Person responsible|Deadline|
 |-|-|-|
-|XXXX|XXXX|X/Y/Z|
+|Find users for testing|Corbyn Jacobs|10/5/24|
+|Carry out testing with users|Corbyn Jacobs|21/5/24|
 
 
 ## Other Information

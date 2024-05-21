@@ -35,3 +35,11 @@ It says "READ ME", and you did it, congratulations!
 
  - [Risk Register](Iteration%203/Risk%20Register.md)
 
+### Resource Needs
+ - [Resource Needs](Iteration%202/Resource%20Needs.md)
+
+### Gantt Chart
+ - [Gantt Chart](Iteration%202/Agile%20Gantt%20chart-BeerusGroup.xlsl)
+
+### Website
+ - [Link](https://h0dgep0dge.github.io/BeerusAgile/) 

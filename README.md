@@ -13,7 +13,8 @@ It says "READ ME", and you did it, congratulations!
  - Group meeting reports
  - Stakeholder register
  - Personas
-
+ - Gantt Chart
+ - Website link
 
 ### Group meeting reports
 

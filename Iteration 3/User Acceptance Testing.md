@@ -1,5 +1,13 @@
-|When: 02/05/2024|Who: Beerus|Application: Timups smart watch site|
+## User Acceptance Testing
+
+###When: 02/05/2024
+
+###Who: Beerus
+
+###Application: Timups smart watch site
+
 |ID|Scenario Title|Status|Scenario|Remarks|
+|-|-|-|-|-|
 |1|Usability for a blind or deaf user|Pass|The website should follow all POUR principles and be accessible to the blind and deaf|Non-functioning buttons notwithstanding, the website was easy to use with a screen reader, and the website has no audio cues|
 |2|Cross browser compatability|Pass|Website should be usable on Microsoft Edge, Mozilla Firefox, Google Chrome, and Qutebrowser|The website worked well on all browsers tested|
 |3|Contact the company|Failed|The contact form should detect invalid inputs, and send an email to the company inbox when a user provides valid information|This button could just set off an alarm in the offices|

@@ -13,5 +13,5 @@ It says "READ ME", and you did it, congratulations!
 |Meeting Reports|Iteration 1|Iteration 2|Iteration 3    |
 |-----|----------------------------------------------------------------|-------------------------------------------------------------------|-----------------------------------------------------------------------|
 |Tasks|<!-- stakeholder register -->|<!-- gantt chart -->|<!-- risk register -->                      |
-|     |<!-- personas -->|<!-- resource needs -->|<!-- website link -->|
+|     |[Personas](Iteration%201/Personas.md) |<!-- resource needs -->|<!-- website link -->|
 |     |                                                                |                                                                   |<!-- user acceptance testing -->|

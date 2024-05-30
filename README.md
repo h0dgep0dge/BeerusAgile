@@ -14,4 +14,5 @@ It says "READ ME", and you did it, congratulations!
 |-----|----------------------------------------------------------------|-------------------------------------------------------------------|-----------------------------------------------------------------------|
 |Tasks|<!-- stakeholder register -->|<!-- gantt chart -->|<!-- risk register -->                      |
 |     |[Personas](Iteration%201/Personas.md) |<!-- resource needs -->|<!-- website link -->|
+|     |[Stakeholder Registry](Iteration%20/Personas.md) |                                                            |                                                                   |<!-- user acceptance testing -->|
 |     |                                                                |                                                                   |<!-- user acceptance testing -->|
